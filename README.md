@@ -1,3 +1,3 @@
-#  Exynox86 @XdaDevelopers.com- Repositories Introduction
-Collection Of Exynox86 @XdaDevelopers.com Files/Mods/Fixes/Codes
-Here Is The Collection Of Codes Regarding Development Work Progresse Of Exynox86 @xdadevelopers.com
+#  Chainfier@XdaDevelopers.com- Repositories Introduction
+Collection Of Chainfier@XdaDevelopers.com Files/Mods/Fixes/Codes
+Here Is The Collection Of Codes Regarding Development Work Progresse Of Chainfier@xdadevelopers.com
